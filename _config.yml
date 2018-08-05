@@ -2,11 +2,11 @@
 
 title: anabhra tyagi
 description: "Anabhra Tyagi's website featuring her resume, hosted on GitHub"
-url: "https://anabhratyagi.ithub.io"
+url: "https://anabhratyagi.github.io"
 author:
     name: "Anabhra Tyagi"
     email: "anabhratyagi@gmail.com"
-    url: "https://anabhratyagi.ithub.io"
+    url: "https://anabhratyagi.github.io"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username: "anabhratyagi"
