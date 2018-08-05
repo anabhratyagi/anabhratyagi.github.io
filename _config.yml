@@ -1,5 +1,4 @@
 # Site settings
-
 title: anabhra tyagi
 description: "Anabhra Tyagi's website featuring her resume, hosted on GitHub"
 url: "https://anabhratyagi.github.io"
@@ -22,6 +21,9 @@ plugins:
   - another-jekyll-plugin
   - jekyll-seo-tag
   - jekyll-sitemap
+  
+  gems:
+        - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
