@@ -1,0 +1,40 @@
+# Site settings
+
+title: anabhra tyagi
+description: "Anabhra Tyagi's website featuring her resume, hosted on GitHub"
+url: "https://anabhratyagi.github.io"
+author:
+    name: "Anabhra Tyagi"
+    email: "anabhratyagi@gmail.com"
+    url: "https://anabhratyagi.github.io"
+
+social-network-links:
+     facebook: "https://www.facebook.com/anabhra.tyagi"
+     linkedin: "https://www.linkedin.com/in/anabhra-tyagi/"    
+
+baseurl: "" # the subpath of your site, e.g. /blog
+github_username: "anabhratyagi"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-assets
+  - another-jekyll-plugin
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
